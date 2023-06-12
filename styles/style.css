@@ -10,6 +10,10 @@ a{
   font-size: 26px;
 }
 
+.active{
+	color:#4E6FAE;
+}
+
 nav{
 	display: inline-block;
 }
@@ -64,8 +68,8 @@ h4{
 }
 
 p{
-	margin-bottom:15px ;
-	font-weight: 400;
+  margin-bottom: 15px;
+  font-weight: 400;
   font-size: 16.9px;
   line-height: 19px;
   color: #4E6FAE;
@@ -148,4 +152,45 @@ p{
 .img-6{
   width: 71px;
   height:49px ;
+}
+
+.img-7{
+	width: 40px;
+	height: 48px;
+}
+
+.div5{
+	margin-top: 100px;
+}
+
+.content2{
+	margin-top:15px ;
+	font-family: "BPG Nostalgia", sans-serif;
+}
+
+.img-00{
+	width:1052px ;
+	height: 462px;
+	margin-left: 176px;
+	margin-top: 100px;
+}
+
+	
+.div1{
+	margin-left: 120px;
+	margin-top: 150px;
+	font-size: 20px;
+	color: #8D81FF;
+	margin-bottom: 100px;
+	display: inline-block;
+}
+
+.li1{
+	color:#4E6FAE;
+}
+
+.line2{
+	width: 24px;
+	height: 20px;
+	margin-left: 30px;
 }
