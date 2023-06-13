@@ -63,16 +63,16 @@ h4{
 
 .img-2{
 	margin-top:13px ;
-  width: 447px;
-  height: 280px;
+        width: 447px;
+        height: 280px;
 }
 
 p{
-  margin-bottom: 15px;
-  font-weight: 400;
-  font-size: 16.9px;
-  line-height: 19px;
-  color: #4E6FAE;
+      margin-bottom: 15px;
+      font-weight: 400;
+      font-size: 16.9px;
+      line-height: 19px;
+      color: #4E6FAE;
 }
 
 .maincontent{
@@ -194,6 +194,7 @@ p{
 	height: 20px;
 	margin-left: 30px;
 }
+<<<<<<< HEAD
 
 .idk1{
 		width: 500px;
@@ -301,3 +302,5 @@ h5{
 	margin-right:50px;
 	margin-left: 10px;
 }
+=======
+>>>>>>> 26008bf83285bb61ce4c64fdfbe0660882d4ba91
