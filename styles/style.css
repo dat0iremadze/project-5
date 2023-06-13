@@ -154,8 +154,8 @@ p{
   height:49px ;
 }
 
-.img-7{
-	width: 40px;
+.img7{
+	width:40px;
 	height: 48px;
 }
 
@@ -193,4 +193,111 @@ p{
 	width: 24px;
 	height: 20px;
 	margin-left: 30px;
+}
+
+.idk1{
+		width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px 15px 32px 23px;
+    margin-left: 120px; 
+ 
+}
+
+.p1{
+	width: 335px;
+	height: 95px;
+	font-family: font-family: 'Roboto', sans-serif;
+	font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  display: inline-block;
+  color: #7E8898;
+  margin-top: 15px;
+}
+
+h2{
+  width: 307px;
+	height: 24px;
+  font-family: 'Helvetica Neue LT GEO';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #3F4145;
+}
+
+.div2{
+	margin-top: 100px;
+	margin-left:120px ;
+}
+
+.justcontainer{
+	width: 1660px;
+	height: 735px;
+	background:#E7E7E7;
+	padding:162px ;
+}
+
+h5{
+	width: 474px;
+  height: 34px;
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  color: #4E6FAE;
+}
+
+
+.p2 {
+	width: 307px;
+  height: 24px;
+  font-family: 'Helvetica Neue LT GEO';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  margin-top: 20px;
+  color: #7E8898;
+}
+
+.p3{
+	width: 217px;
+  height: 34px;
+  font-family: 'Helvetica Neue LT GEO';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #7E8898;
+}
+
+.p4{
+	position: absolute;
+  width: 434px;
+  height: 34px;
+  font-family: 'Helvetica Neue LT GEO';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #7E8898;
+}
+
+.map{
+	width: 800px;
+  height: 400px;
+  float: right;
+  margin-right: 100px;
+}
+
+.div66{
+	margin-top: 100px;
+	margin-right:50px;
+	margin-left: 10px;
 }
